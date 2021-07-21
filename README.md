@@ -1,17 +1,16 @@
 # Flutter Cupertino DateTime Picker
 
 [[pub packages]](https://pub.dev/packages/flutter_cupertino_datetime_picker)
-| [中文说明](./README_zh-cn.md)
 
 Flutter cupertino datetime picker.
-Fork from [Flutter Cupertino Date Picker](https://github.com/dylanwuzh/flutter-cupertino-date-picker)
+Fork from [Flutter Cupertino Date Picker](https://github.com/ykrank/flutter_cupertino_datetime_picker)
 
 ![Example][1]
 
 ## License
 
 ```
-Copyright 2020 ykrank
+Copyright 2020 csciallano
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -25,5 +24,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-[1]:https://github.com/ykrank/flutter_cupertino_datetime_picker/blob/master/assets/flutter_date_picker_1.jpg?raw=true
